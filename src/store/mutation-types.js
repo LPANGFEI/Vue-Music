@@ -1,0 +1,7 @@
+export const SET_MODE = 'SET_MODE'
+export const SET_SONG_LIST = 'SET_SONG_LIST'
+export const SET_CURRENT_INDEX = 'SET_CURRENT_INDEX'
+export const SET_PLAY = 'SET_PLAY'
+export const SET_PLAY_SCREEN = 'SET_PLAY_SCREEN'
+export const ADD_COLLECTIONS = 'ADD_COLLECTIONS'
+export const REMOVE_COLLECTIONS = 'REMOVE_COLLECTIONS'
